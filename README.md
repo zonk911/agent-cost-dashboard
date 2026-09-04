@@ -1,3 +1,11 @@
+# Fork Notes
+
+This fork from mrexodia/agent-cost-dashboard is tailored for my own personal use-cases. I want to thank @mrexodia for his work.
+
+The majority of the changes in the fork will be done by AI and are considered slop.
+
+Use at your own risk.
+
 # Agent Cost Dashboard
 
 Web dashboard to monitor API costs for [Pi](https://github.com/mariozechner/pi-coding-agent), [Oh My Pi](https://github.com/can1357/oh-my-pi), [Claude Code](https://github.com/anthropics/claude-code), [Codex CLI](https://github.com/openai/codex), and [Gemini CLI](https://github.com/google-gemini/gemini-cli) coding agents.
